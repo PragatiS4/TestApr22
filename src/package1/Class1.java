@@ -1,4 +1,5 @@
 package package1;
+
 public class Class1 {
 	int count=0;
 	void isPrime(int num) {
